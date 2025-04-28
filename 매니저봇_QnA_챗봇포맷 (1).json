@@ -1,0 +1,44 @@
+[
+  {
+    "category": "카드/등록",
+    "question": "타인카드 등록 시 구비서류는 무엇인가요?",
+    "answer": "계약자 신분증, 카드 소유주 신분증이 필요합니다.",
+    "attachment_required": true,
+    "branch": "충남"
+  },
+  {
+    "category": "자동이체",
+    "question": "자동이체시 타인 계좌로 등록은 어떻게 하나요?",
+    "answer": "자동이체 예금주가 상이한 경우는 예금주 신분증, 카드신청시 계약자 신분증, 가족관계증명서(3개월 이내 발급)가 필요합니다.",
+    "attachment_required": false,
+    "branch": "천안"
+  },
+  {
+    "category": "무이자",
+    "question": "자동차 카드 무이자 할부는 어떻게 되나요?",
+    "answer": "무이자 할부는 매월 변경됩니다. 지점에 게시했으니 참고하세요.",
+    "attachment_required": false,
+    "branch": "대전"
+  },
+  {
+    "category": "스캔업무",
+    "question": "이건 스캔은 장기에서 하나요?",
+    "answer": "스캔은 문서별로 종류가 다릅니다. 장기는 장기, 장기배서는 통합배서, 자동이체는 입출금, 카드등록은 장기, 지금(즉시이체)은 재무, 고객은 고객스캔으로 하시면 됩니다.",
+    "attachment_required": true,
+    "branch": "대전"
+  },
+  {
+    "category": "장기 변경배서",
+    "question": "장기 변경배서 시 계약자와 피보험자가 틀린 경우 필요한 서류는 무엇인가요?",
+    "answer": "계약자 신분증, 수익자 신분증. 계약자가 증권원본 제출 시에는 수익자 동의 생략 가능합니다.",
+    "attachment_required": true,
+    "branch": "충청TC"
+  },
+  {
+    "category": "승환계약",
+    "question": "이 계약건은 승환계약인가요?",
+    "answer": "승환계약 여부 조회는 청약화면 팝업을 통해 확인하여야 합니다.",
+    "attachment_required": false,
+    "branch": "충청TC"
+  }
+]
